@@ -6,6 +6,11 @@ and sessions in PHP. It fetches the products based on the user's
 search keyword and displays the available products to her. The user 
 can then select products and add them to her cart.
 
+![alt Shopaholic](screenshots/Shopaholic1.JPG "")
+
+![alt Shopaholic](screenshots/Shopaholic2.JPG "")
+
+
 ## How to run ?
 
 Clone the repository into your htdocs diretory under xampp. 
